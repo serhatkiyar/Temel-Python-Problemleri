@@ -1,0 +1,65 @@
+1. **Faktöriyel Hesaplama Fonksiyonu:** Bir sayının faktöriyelini hesaplayan özyinemeli bir fonksiyon yazın.
+
+2. **Fibonacci Serisi Hesaplama Fonksiyonu:** Fibonacci serisinin n'inci elemanını hesaplayan özyinemeli bir fonksiyon yazın.
+
+3. **Üs Alma Fonksiyonu:** Bir sayının üssünü hesaplayan özyinemeli bir fonksiyon yazın.
+
+4. **Dizi Elemanlarının Toplamını Hesaplama Fonksiyonu:** Bir dizi içindeki elemanların toplamını hesaplayan özyinemeli bir fonksiyon yazın.
+
+5. **Palindrom Kontrolü Fonksiyonu:** Verilen bir string'in palindrom olup olmadığını kontrol eden özyinemeli bir fonksiyon yazın. (Palindrom, tersten okunduğunda aynı olan bir kelime, kelime grubu veya cümledir. )
+
+6. **En Büyük Ortak Bölen (GCD) Hesaplama Fonksiyonu:** İki sayının en büyük ortak bölenini hesaplayan özyinemeli bir fonksiyon yazın. 
+
+7. **Eleman Sayısını Bulma Fonksiyonu:** Bir dizinin eleman sayısını hesaplayan özyinemeli bir fonksiyon yazın.
+
+8. **Dizi Elemanlarını Ters Çevirme Fonksiyonu:** Bir dizinin elemanlarını ters çeviren özyinemeli bir fonksiyon yazın.
+
+9. **Dizi Elemanlarını Sıralama Fonksiyonu:** Bir diziyi sıralayan özyinemeli bir sıralama algoritması fonksiyonu yazın.
+
+10. **Dizi Elemanlarını Birleştirme Fonksiyonu:** İki diziyi birleştiren özyinemeli bir fonksiyon yazın.
+
+11. **Dizi Elemanlarını Filtreleme Fonksiyonu:** Bir dizi içinde belirli bir kriteri sağlayan elemanları filtreleyen özyinemeli bir fonksiyon yazın.
+
+12. **Dizi Elemanlarının Ortalamasını Hesaplama Fonksiyonu:** Bir dizinin elemanlarının ortalamasını hesaplayan özyinemeli bir fonksiyon yazın.
+
+13. **Dizi Elemanlarının Standart Sapmasını Hesaplama Fonksiyonu:** Bir dizinin elemanlarının standart sapmasını hesaplayan özyinemeli bir fonksiyon yazın.
+
+14. **Asal Sayı Kontrolü Fonksiyonu:** Bir sayının asal olup olmadığını kontrol eden özyinemeli bir fonksiyon yazın.
+
+15. **Elemanları Belirli Bir Değere Kadar Olan Toplamları Bulma Fonksiyonu:** Belirli bir değere kadar olan sayıların toplamlarını hesaplayan özyinemeli bir fonksiyon yazın.
+
+16. **Dizi Elemanlarını Belirli Bir Değere Kadar Olan Tek Sayıları Toplama Fonksiyonu:** Belirli bir değere kadar olan tek sayıların toplamını hesaplayan özyinemeli bir fonksiyon yazın.
+
+17. **Dizi İçindeki En Büyük Elemanı Bulma Fonksiyonu:** Bir dizinin içindeki en büyük elemanı bulan özyinemeli bir fonksiyon yazın.
+
+18. **Dizi İçindeki En Küçük Elemanı Bulma Fonksiyonu:** Bir dizinin içindeki en küçük elemanı bulan özyinemeli bir fonksiyon yazın.
+
+19. **Elemanları Belirli Bir Değere Kadar Olan Sayıları Çarpan Fonksiyon:** Belirli bir değere kadar olan sayıların çarpımını hesaplayan özyinemeli bir fonksiyon yazın.
+
+20. **Dizi Elemanlarını Tek ve Çift Sayılara Ayırma Fonksiyonu:** Bir diziyi içindeki elemanları tek ve çift sayılara ayıran özyinemeli bir fonksiyon yazın.
+
+21. **Dizi Elemanlarını Toplamak İçin Özyinemeli Fonksiyon:** Bir dizinin elemanlarını toplamak için özyinemeli bir fonksiyon yazın.
+
+22. **Dizi Elemanlarının Faktöriyelini Hesaplama Fonksiyonu:** Bir dizinin elemanlarının faktöriyelini hesaplayan özyinemeli bir fonksiyon yazın.
+
+23. **Dizi Elemanlarını Ters Sıralama Fonksiyonu:** Bir diziyi sıralayıp elemanlarını ters çeviren özyinemeli bir fonksiyon yazın.
+
+24. **Dizi Elemanlarını Belirli Bir Değere Kadar Olan Çift Sayıları Toplama Fonksiyonu:** Belirli bir değere kadar olan çift sayıların toplamını hesaplayan özyinemeli bir fonksiyon yazın.
+
+25. **Elemanları Belirli Bir Değere Kadar Olan Fibonacci Serisi Fonksiyonu:** Fibonacci serisinin belirli bir değere kadar olan elemanlarını hesaplayan özyinemeli bir fonksiyon yazın.
+
+26. **Elemanları Belirli Bir Değere Kadar Olan Asal Sayıları Bulma Fonksiyonu:** Belirli bir değere kadar olan asal sayıları bulan özyinemeli bir fonksiyon yazın.
+
+27. **Dizi İçinde Belirli Bir Değeri Arama Fonksiyonu:** Bir dizinin içinde belirli bir değeri arayan özyinemeli bir fonksiyon yazın.
+
+28. **Dizi İçindeki Belirli Bir Değeri Bulan Fonksiyon:** Bir dizinin içinde belirli bir değeri bulan ve yerini döndüren özyinemeli bir fonksiyon yazın.iyon yazın.
+
+29. **Dizi Elemanlarını Birleştirip Ters Çevirme Fonksiyonu:** İki diziyi birleştiren ve elde edilen diziyi ters çeviren özyinemeli bir fonksiyon yazın.
+
+30. **Dizi Elemanlarını Belirli Bir Değere Kadar Olan Üslerini Hesaplama Fonksiyonu:** Belirli bir değere kadar olan üslerini hesaplayan özyinemeli bir fonksiyon yazın.
+
+31. **Dizi Elemanlarını Belirli Bir Değere Kadar Olan Çift Sayıları Bulma Fonksiyonu:** Belirli bir değere kadar olan çift sayıları bulan özyinemeli bir fonksiyon yazın.
+
+32. **Dizi Elemanlarını Belirli Bir Değere Kadar Olan Üslerinin Toplamını Hesaplama Fonksiyonu:** Belirli bir değere kadar olan üslerinin toplamını hesaplayan özyinemeli bir fonksiyon yazın.
+
+33. **Dizi Elemanlarını Belirli Bir Değere Kadar Olan Asal Sayıların Karesini Hesaplama Fonksiyonu:** Belirli bir değere kadar olan asal sayıların karesini hesaplayan özyinemeli bir fonksiyon yazın.
