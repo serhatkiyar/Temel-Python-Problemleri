@@ -1,0 +1,164 @@
+🟣Satır ve Sütun Toplamı:
+    Verilen bir matrisin her satır ve sütun toplamlarını bulan bir Python programı yazın.
+
+🟣Matrisin Sıfıra Eşit Olup Olmadığını Kontrol Etme:
+    Verilen bir matrisin sıfıra eşit olup olmadığını kontrol eden bir Python programı yazın.
+
+🟣Matrisin İki Satırını Değiştirme:
+    Verilen bir matrisin iki satırını yer değiştiren bir Python programı yazın.
+
+🟣Matrisin İki Sütununu Değiştirme:
+    Verilen bir matrisin iki sütununu yer değiştiren bir Python programı yazın.
+
+🟣Matrisin İki Satırını Çarpma:
+    Verilen bir matrisin bir satırını belirli bir sayıyla çarpan bir Python programı yazın.
+
+🟣Matrisin İki Sütununu Çarpma:
+    Verilen bir matrisin bir sütununu belirli bir sayıyla çarpan bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Satırını Sıfırlama:
+    Verilen bir matrisin belirli bir satırını sıfırlayan bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Sütununu Sıfırlama:
+    Verilen bir matrisin belirli bir sütununu sıfırlayan bir Python programı yazın.	
+🟣Matrisin Satırlarını Sıralama:
+    Verilen bir matrisin satırlarını küçükten büyüğe sıralayan bir Python programı yazın.
+
+🟣Matrisin Sütunlarını Sıralama:
+    Verilen bir matrisin sütunlarını küçükten büyüğe sıralayan bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Elemanını Değiştirme:
+    Verilen bir matrisin belirli bir elemanını kullanıcının girdiği yeni değerle değiştiren bir Python programı yazın.
+
+🟣Matrisin Satır Toplamlarını Bulma:
+    Verilen bir matrisin her satırının toplamını bulan bir Python programı yazın.
+
+🟣Matrisin Sütun Toplamlarını Bulma:
+    Verilen bir matrisin her sütununun toplamını bulan bir Python programı yazın.
+
+🟣Matrisin Satır Ortalamalarını Bulma:
+    Verilen bir matrisin her satırının ortalamasını bulan bir Python programı yazın.
+
+🟣Matrisin Sütun Ortalamalarını Bulma:
+    Verilen bir matrisin her sütununun ortalamasını bulan bir Python programı yazın.
+
+🟣Matrisin Satırlarını Kopyalama:
+    Verilen bir matrisin belirli bir satırını başka bir satıra kopyalayan bir Python programı yazın.
+
+🟣Matrisin Sütunlarını Kopyalama:
+    Verilen bir matrisin belirli bir sütununu başka bir sütuna kopyalayan bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Elemanını Bulma:
+Verilen bir matrisin belirli bir elemanını bulan bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Satırını Silme:
+Verilen bir matrisin belirli bir satırını silen bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Sütununu Silme:
+Verilen bir matrisin belirli bir sütununu silen bir Python programı yazın.
+
+🟣Matrisin Satırlarını Karıştırma:
+Verilen bir matrisin satırlarını karıştıran bir Python programı yazın.
+
+🟣Matrisin Sütunlarını Karıştırma:
+Verilen bir matrisin sütunlarını karıştıran bir Python programı yazın.
+
+
+🟣Matrisin Satırlarını Tersten Yazma:
+Verilen bir matrisin satırlarını tersten yazan bir Python programı yazın.
+
+🟣Matrisin Sütunlarını Tersten Yazma:
+Verilen bir matrisin sütunlarını tersten yazan bir Python programı yazın.
+
+🟣Matris Elemanlarının Mutlak Değerini Alma:
+Verilen bir matrisin elemanlarının mutlak değerini alan bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Satırını Ters Çevirme:
+Verilen bir matrisin belirli bir satırını ters çeviren bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Sütununu Ters Çevirme:
+Verilen bir matrisin belirli bir sütununu ters çeviren bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Bölgesini Sıfırlama:
+Verilen bir matrisin belirli bir bölgesini sıfırlayan bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Bölgesini Toplama:
+Verilen bir matrisin belirli bir bölgesinin elemanlarını toplayan bir Python programı yazın.
+
+🟣Matrisin Satırlarını Ortalamaya Göre Sıralama:
+Verilen bir matrisin satırlarını ortalamaya göre küçükten büyüğe sıralayan bir Python programı yazın.
+
+🟣Matrisin Sütunlarını Ortalamaya Göre Sıralama:
+Verilen bir matrisin sütunlarını ortalamaya göre küçükten büyüğe sıralayan bir Python programı yazın.
+
+🟣Matris Elemanlarını Karekök Alma:
+Verilen bir matrisin elemanlarının karekökünü alan bir Python programı yazın.
+
+🟣Matris Elemanlarını Üs Alma:
+Verilen bir matrisin elemanlarını belirli bir üs kuvvetine yükselten bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Satırını Belirli Bir Değerle Çarpma:
+Verilen bir matrisin belirli bir satırını belirli bir değerle çarpan bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Sütununu Belirli Bir Değerle Çarpma:
+Verilen bir matrisin belirli bir sütununu belirli bir değerle çarpan bir Python programı yazın.
+
+🟣Matrisin Satırlarını Ortalama ile Değiştirme:
+Verilen bir matrisin satırlarını ortalamayla değiştiren bir Python programı yazın.
+
+🟣Matrisin Sütunlarını Ortalama ile Değiştirme:
+Verilen bir matrisin sütunlarını ortalamayla değiştiren bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Satırındaki En Küçük ve En Büyük Elemanları Bulma:
+Verilen bir matrisin belirli bir satırındaki en küçük ve en büyük elemanları bulan bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Sütunundaki En Küçük ve En Büyük Elemanları Bulma:
+Verilen bir matrisin belirli bir sütunundaki en küçük ve en büyük elemanları bulan bir Python programı yazın.
+
+🟣Matrisin Satırları Arasındaki Farkları Bulma:
+Verilen bir matrisin ardışık satırları arasındaki farkları bulan bir Python programı yazın.
+
+🟣Matrisin Sütunları Arasındaki Farkları Bulma:
+Verilen bir matrisin ardışık sütunları arasındaki farkları bulan bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Satırındaki Elemanları Çarpan Bir Matris Oluşturma:
+Verilen bir matrisin belirli bir satırındaki elemanları belirli bir sayıyla çarpan bir matris oluşturan bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Sütunundaki Elemanları Çarpan Bir Matris Oluşturma:
+Verilen bir matrisin belirli bir sütunundaki elemanları belirli bir sayıyla çarpan bir matris oluşturan bir Python programı yazın.
+
+🟣Matrisin Satırlarındaki Elemanların Toplamının Sıfır Olup Olmadığını Kontrol Etme:
+Verilen bir matrisin satırlarındaki elemanların toplamının sıfır olup olmadığını kontrol eden bir Python programı yazın.
+
+🟣Matrisin Sütunlarındaki Elemanların Toplamının Sıfır Olup Olmadığını Kontrol Etme:
+Verilen bir matrisin sütunlarındaki elemanların toplamının sıfır olup olmadığını kontrol eden bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Satırındaki Elemanları Bölme:
+Verilen bir matrisin belirli bir satırındaki elemanları belirli bir sayıyla bölen bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Sütunundaki Elemanları Bölme:
+Verilen bir matrisin belirli bir sütunundaki elemanları belirli bir sayıyla bölen bir Python programı yazın.
+
+🟣Matrisin Satırlarını Tersine Çevirme:
+Verilen bir matrisin satırlarını tersine çeviren bir Python programı yazın.
+
+🟣Matrisin Sütunlarını Tersine Çevirme:
+Verilen bir matrisin sütunlarını tersine çeviren bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Satırındaki Elemanları Toplama:
+Verilen bir matrisin belirli bir satırındaki elemanları toplayan bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Sütunundaki Elemanları Toplama:
+Verilen bir matrisin belirli bir sütunundaki elemanları toplayan bir Python programı yazın.
+
+🟣Matrisin Satırlarını Rasgele Yer Değiştirme:
+Verilen bir matrisin satırlarını rasgele yer değiştiren bir Python programı yazın.
+
+🟣Matrisin Sütunlarını Rasgele Yer Değiştirme:
+Verilen bir matrisin sütunlarını rasgele yer değiştiren bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Satırındaki Elemanları Güçlendirme:
+Verilen bir matrisin belirli bir satırındaki elemanları belirli bir sayıyla kuvvetine yükselten bir Python programı yazın.
+
+🟣Matrisin Belirli Bir Sütunundaki Elemanları Güçlendirme:
+Verilen bir matrisin belirli bir sütunundaki elemanları belirli bir sayıyla kuvvetine yükselten bir Python programı yazın.

@@ -1,0 +1,8 @@
+"w" Mevcut bir dosya açılırsa, dosyadaki tüm içerik silinir ve yeni içerik yazılır.
+        Dosya mevcut değilse, yeni bir dosya oluşturulur.
+
+"r": Dosyayı okuma modunda açar.
+
+"a": Dosyayı ekleme modunda açar. Bu modda, dosyanın sonuna yeni içerik ekleyebilirsiniz.
+
+"r+": Dosyayı okuma ve yazma modunda açar.

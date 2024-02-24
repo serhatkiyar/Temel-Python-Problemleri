@@ -1,0 +1,46 @@
+# 1. 1'den 10'a kadar olan sayıları ekrana yazdıran bir `for` döngüsü yazın.
+# 2. Bir liste içindeki her bir elemanı ekrana yazdıran bir `for` döngüsü oluşturun.
+# 3. 1'den 100'e kadar olan çift sayıları ekrana yazdıran bir `for` döngüsü yazın.
+# 4. Kullanıcıdan bir kelime girişi alın ve bu kelimenin her bir harfini ekrana yazdıran bir `for` döngüsü yazın.
+# 5. 1'den 10'a kadar olan sayıları ekrana yazdıran bir `while` döngüsü yazın.
+# 6. 10'dan 1'e kadar olan sayıları ekrana yazdıran bir `while` döngüsü yazın.
+# 7. 1 ile 20 arasındaki tek sayıları ekrana yazdıran bir `for` döngüsü yazın.
+# 8. 0 ile 10 arasındaki sayıların toplamını bulan bir `for` döngüsü yazın.
+# 9. 1 ile 50 arasındaki sayıların toplamını bulan bir `while` döngüsü yazın.
+# 10. 1 ile 5 arasındaki sayıların karelerini ekrana yazdıran bir `for` döngüsü yazın.
+# 11. 1 ile 100 arasındaki sayıların toplamını bulan bir `while` döngüsü yazın.
+# 12. Kullanıcının girdiği iki sayı arasındaki sayıları ekrana yazdıran bir `for` döngüsü yazın.
+# 13. Bir liste içindeki çift sayıları ekrana yazdıran bir `for` döngüsü yazın.
+# 14. 1 ile 10 arasındaki sayıların faktöriyellerini ekrana yazdıran bir `for` döngüsü yazın.
+# 15. Kullanıcıdan alınan bir sayının çift olup olmadığını
+# 16. 1 ile 50 arasındaki sayıların çarpımını bulan bir `while` döngüsü yazın.
+# 17. 1 ile 100 arasındaki tek sayıları ekrana yazdıran bir `for` döngüsü yazın.
+# 18. Kullanıcının girdiği iki sayı arasındaki çift sayıları ekrana yazdıran bir `for` döngüsü yazın.
+# 19. 10 ile 20 arasındaki sayıları ekrana yazdıran bir `while` döngüsü yazın.
+# 20. 1 ile 50 arasındaki sayıların karelerini ekrana yazdıran bir `for` döngüsü yazın.
+# 21. Kullanıcının girdiği bir sayının faktöriyelini bulan bir `while` döngüsü yazın.
+# 22. 1 ile 100 arasındaki sayıların toplamını bulan bir `for` döngüsü yazın.
+# 23. Bir liste içindeki sayıları küçükten büyüğe sıralayan bir `for` döngüsü yazın. (Liste örneği: `[45, 12, 78, 23, 56]`)
+# 24. 1 ile 10 arasındaki sayıların kareköklerini ekrana yazdıran bir `for` döngüsü yazın.
+# 25. Kullanıcının girdiği bir sayının tek mi çift mi olduğunu kontrol eden bir `if` ve `else` kullanarak bir program yazın.
+# 26. 1 ile 50 arasındaki sayıların toplamını bulan bir `while` döngüsü yazın.
+# 27. 1 ile 100 arasındaki çift sayıları ekrana yazdıran bir `for` döngüsü yazın.
+# 28. Bir liste içindeki elemanları tersten ekrana yazdıran bir `for` döngüsü yazın. (Liste örneği: `[10, 20, 30, 40, 50]`)
+# 29. Kullanıcının girdiği bir sayının karesini bulan bir `while` döngüsü yazın.
+# 30. 1 ile 10 arasındaki sayıların toplamını bulan bir `for` döngüsü yazın.
+# 31. Girilen cümlenin hangi harfin kaç defa tekrarlandığı
+# 32. 
+# 33. 
+# 34. 
+# 35. 
+# 36. 
+# 37. 
+# 38. 
+# 39. 
+# 40. 
+# 41. 
+# 32. 
+# 43. 
+# 44. 
+# 45. 
+

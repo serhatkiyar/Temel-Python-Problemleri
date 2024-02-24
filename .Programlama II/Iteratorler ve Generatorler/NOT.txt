@@ -1,0 +1,24 @@
+                            I T E R A T O R L E R  V E  G E N E R A T O R L E R
+
+***ITER*** (T E K R A R)
+'iter()' Python'da kullanılan bir yerleşik fonksiyondur.
+Bu fonksiyon, bir iterable nesnenin bir iteratorünü (yineleyicisini) döndürür.
+Iterator, iterable bir nesnenin elemanlarına tek tek erişimi sağlar.
+
+***ITERABLE*** (Y İ N E L E Y İ C İ)
+Bir nesnenin iterable olması, üzerinde döngü (loop) işlemi yapılabilir olduğunu ve
+    elemanlarına tek tek erişilebileceğini ifade eder.
+Iterable nesneler, örneğin liste, demet, dize gibi veri yapılarıdır.
+
+***ITERASYON***
+İterasyon, bir döngü (loop) tarafından kontrol edilen ve tekrarlanan bir işlemdir.
+Bir döngü içinde her bir tekrara bir iterasyon denir.
+
+***ITERATOR***
+Iterator, Python'da bir iterable (yineleyici) nesnenin üzerinde sırayla elemanlara erişimi sağlayan bir nesnedir.
+Iterable bir nesnenin elemanlarına erişmek için kullanılan next() fonksiyonuyla birlikte çalışır.
+Iteratorler, iterable bir nesnenin belirli bir konumunu (adresini) temsil ederler ve next() fonksiyonu çağrıldığında,
+    bu konumdaki elemanı döndürürler.
+Daha sonra iterator, bir sonraki elemana geçer ve bir sonraki çağrıda bu elemanı döndürür.
+
+GENERATOR
