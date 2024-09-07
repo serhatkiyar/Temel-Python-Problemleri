@@ -1,6 +1,6 @@
 <h1>Temel Python Problemleri</h1>
 <br>
-Problemler ChatGPT tarafından üretildi.
+Problemler ChatGPT 3.5 tarafından üretildi.
 <br><br>
 <lu><strong>Konular</strong></lu>
 <br>
