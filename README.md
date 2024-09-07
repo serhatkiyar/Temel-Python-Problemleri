@@ -4,11 +4,11 @@ Problemler ChatGPT 3.5 tarafından üretildi.
 <br><br>
 <lu><strong>Konu Başlıkları:</strong></lu>
 <br>
-<li>Listeler <a href=https://github.com/serhatkiyar/Temel-Python-Problemleri/tree/master/.Programlama%20I/Listeler/Liste%20Problemleri>>></a></li>
-<li>Döngüler <a href=https://github.com/serhatkiyar/Temel-Python-Problemleri/tree/master/.Programlama%20I/D%C3%B6ng%C3%BCler/D%C3%B6ng%C3%BC%20Problemleri>>></a></li>
-<li>İç İçe Döngüler <a href=https://github.com/serhatkiyar/Temel-Python-Problemleri/tree/master/.Programlama%20I/%C4%B0%C3%A7%20i%C3%A7e%20D%C3%B6ng%C3%BCler/%C4%B0%C3%A7%20%C4%B0%C3%A7e%20D%C3%B6ng%C3%BC%20Problemleri>>></a></li>
-<li>Matrisler <a href=https://github.com/serhatkiyar/Temel-Python-Problemleri/tree/master/.Programlama%20I/Matrisler/Matris%20Problemleri>>></a></li>
-<li>Özyinelemeli Fonksiyonlar <a href=https://github.com/serhatkiyar/Temel-Python-Problemleri/tree/master/.Programlama%20I/%C3%96zyinelemeli%20Fonksiyonlar/%C3%96zyinelemeli%20Fonksiyon%20Problemleri>>></a></li>
+<li>Listeler</li>
+<li>Döngüler</li>
+<li>İç İçe Döngüler</li>
+<li>Matrisler</li>
+<li>Özyinelemeli Fonksiyonlar</li>
 <br><br>
 <p>Açıklama</p>
 <p>Çözümler kendime ait olmakla beraber çözümlerin en doğru çözüm olduğunu falan savunmuyorum. Yanlış çözümlerde olabilir.</p>
