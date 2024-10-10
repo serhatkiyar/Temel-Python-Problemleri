@@ -1,0 +1,54 @@
+1 - Bir Car sınıfı oluşturun. Bu sınıfta brand, model, year özellikleri ve start(), stop() metodları olsun.
+Bir Student sınıfı oluşturun ve öğrencilerin adını, yaşını ve notlarını tutun. get_average() metodu ile öğrencinin not ortalamasını hesaplayın.
+Bir BankAccount sınıfı oluşturun. Bu sınıf para yatırma ve çekme işlemleri için metodlar içersin.
+Circle sınıfını yazın. Yarıçapı alın ve get_area() metodu ile dairenin alanını hesaplayın.
+Bir Rectangle sınıfı oluşturun ve get_perimeter() metoduyla çevresini bulun.
+Bir Book sınıfı oluşturun ve title, author, price özelliklerini tanımlayın.
+Bir Person sınıfı oluşturun. Bu sınıfta kişinin adını ve yaşını tanımlayın. Yaşını artıran bir metod yazın.
+Bir Employee sınıfı oluşturun. Maaşını ve pozisyonunu tutan metodlar tanımlayın.
+Product sınıfını yazın. Fiyat ve stok bilgilerini içeren özellikler ekleyin. Ürünü satın alan bir metod yazın.
+Point sınıfı oluşturun. İki nokta arasındaki mesafeyi hesaplayan metod yazın.
+Orta Seviye OOP Problemleri
+Bir Shape ana sınıfı ve ondan türeyen Triangle, Square ve Circle sınıflarını yazın. Her biri için alan ve çevre hesaplaması yapın.
+Animal sınıfı oluşturun. Dog ve Cat sınıfları bu sınıftan türesin. Her birinin kendine özgü sound() metodunu oluşturun.
+Bir Bank sınıfı oluşturun. İçerisinde farklı müşteriler ve bu müşterilerin hesap bilgileri olsun.
+Vehicle sınıfı oluşturun. Car ve Bike sınıfları bu sınıftan türesin. Her biri için hız ve yakıt bilgilerini içeren metodlar ekleyin.
+Bir StudentGroup sınıfı yazın. Öğrencilerin isim ve notlarını tutan ve bu grubun ortalamasını dönen bir metod ekleyin.
+Library sınıfı oluşturun. Kitapları ödünç alıp teslim eden metodlar yazın.
+Bir Game sınıfı oluşturun. Bu sınıfta oyuncuların skorlarını tutun ve kazananı belirleyen bir metod yazın.
+Shape sınıfına color özelliği ekleyin ve Circle, Square sınıfları bu özelliği miras alsın.
+Bir Restaurant sınıfı yazın. Yemeklerin listesini tutan bir metod ve her yemeğin fiyatını hesaplayan bir metod ekleyin.
+Bir Car sınıfı oluşturun. Aynı arabayı farklı modellerde tanımlayıp fiyat farklarını hesaplayan bir metod yazın.
+İleri Seviye OOP Problemleri
+Bir Bank sınıfı oluşturun. Her müşterinin birden fazla hesap açabilmesini sağlayın ve hesaplar arasında para transferini gerçekleştiren bir metod yazın.
+Employee sınıfını yazın ve Manager sınıfını bu sınıftan türetin. Manager sınıfı için ek özellikler ekleyin.
+Bir University sınıfı oluşturun ve içerisinde öğrenciler, bölümler ve fakülteler tanımlayın.
+Bir FileManager sınıfı yazın. Dosya okuma, yazma ve silme işlemlerini gerçekleştiren metodlar ekleyin.
+Zoo sınıfı oluşturun. İçerisinde hayvanları barındırın ve her hayvanın kendi özelliklerine sahip olmasını sağlayın.
+Bir FlightBooking sınıfı yazın. Uçuş rezervasyon işlemlerini gerçekleştirin.
+Bir ShoppingCart sınıfı oluşturun. İçerisinde ürün ekleme, çıkarma ve toplam tutarı hesaplama metodları yazın.
+Bank sınıfına hesapları dondurma ve çözme özellikleri ekleyin.
+Student sınıfına ek olarak Teacher sınıfı oluşturun ve öğretmenin öğrencilerin notlarını verebileceği bir sistem yazın.
+Bir Robot sınıfı oluşturun. Robotun hareket edebileceği bir sistem tasarlayın ve enerji yönetimi ekleyin.
+İlişkili Sınıflar ve İnterface Problemleri
+Bir Company sınıfı yazın. Employee ve Department sınıflarını tanımlayın ve şirket içindeki çalışanların departmanlarını ayarlayan metodlar ekleyin.
+Animal sınıfına ek olarak ZooKeeper sınıfı oluşturun. Hayvanlara bakım yapan metodlar yazın.
+Bir Store sınıfı oluşturun. Müşteri ve ürünlerle etkileşim sağlayan bir sistem yazın.
+Vehicle sınıfına ek olarak Garage sınıfı oluşturun. Araçları tamir eden metodlar ekleyin.
+Bir Hospital sınıfı yazın. Doktorlar, hemşireler ve hastaları içeren bir sistem oluşturun.
+Library sınıfına ek olarak User sınıfı oluşturun. Kullanıcıların kitap ödünç alabileceği bir sistem tasarlayın.
+Shop sınıfı oluşturun. Ürünler ve müşterilerle çalışan bir alışveriş sistemi yazın.
+Bir Cinema sınıfı oluşturun ve film biletleri satış sistemini yazın.
+Event ve Attendee sınıflarını yazın. Etkinlikler ve katılımcılarla çalışan bir sistem kurun.
+Bus sınıfı oluşturun ve otobüs seferlerini planlayan bir metod ekleyin.
+Tasarım Kalıplarıyla İlgili Problemler
+Bir Singleton deseni kullanarak Database sınıfı oluşturun.
+Bir Observer deseni kullanarak bir Notification sistemi tasarlayın.
+Bir Factory deseni kullanarak VehicleFactory sınıfı oluşturun.
+Strategy deseni kullanarak bir ödeme sistemi tasarlayın.
+Bir Adapter deseni kullanarak eski bir sistemi yeni bir sisteme uyarlayan sınıflar yazın.
+Bir Decorator deseni kullanarak bir nesneye özellik ekleyen bir yapı oluşturun.
+Builder deseni ile bir House sınıfı tasarlayın.
+Bir Proxy deseni kullanarak bir sınıfa erişimi kontrol edin.
+Command deseni kullanarak bir kullanıcı arayüzü sistemi yazın.
+Bir State deseni kullanarak bir ATM makinesinin durumlarını yönetin.
