@@ -9,6 +9,7 @@ Problemler ChatGPT 3.5 tarafından üretildi.
 <li>İç İçe Döngüler</li>
 <li>Matrisler</li>
 <li>Özyinelemeli Fonksiyonlar</li>
+<li>OOP</li>
 <br><br>
 <p>Açıklama</p>
-<p>Çözümler kendime ait olmakla beraber çözümlerin en doğru çözüm olduğunu falan savunmuyorum. Yanlış çözümlerde olabilir.</p>
+<p>Çözümler yanlış olabilir.</p>
